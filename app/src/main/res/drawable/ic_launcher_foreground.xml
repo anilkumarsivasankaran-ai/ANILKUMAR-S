@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Chart Growth Bars in Background of Icon -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M34,68h6v12h-6z M44,60h6v20h-6z M54,52h6v28h-6z M64,44h6v36h-6z" />
+    <!-- Dynamic Growth Rocket Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67.5,30c0,0-15.5,1.5-23.5,15.5c-4.5,7.8-3.5,14.5-3.5,14.5l9,9c0,0,6.7,1,14.5-3.5C78,57.5,79.5,42,79.5,42s-1.5,-10.5-12,-12z" />
+    <!-- Rocket Window / AI Core -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M64,42a5,5 0 1,0 0.001,0z" />
+    <!-- Rocket Fin Left -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M42,57l-10,5l2,10l8,-3z" />
+    <!-- Rocket Fin Right -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M51,66l-3,8l10,2l5,-10z" />
+    <!-- Rocket Jet Flame -->
+    <path
+        android:fillColor="#FB923C"
+        android:pathData="M44,69l-6,11l11,-6z" />
+    <!-- AI Sparkle / Star at Top-Right -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M78,24l2,5l5,2l-5,2l-2,5l-2,-5l-5,-2l5,-2z" />
+</vector>

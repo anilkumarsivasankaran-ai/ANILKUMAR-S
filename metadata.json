@@ -1,0 +1,6 @@
+{
+  "name": "MarketAI",
+  "description": "AI-powered product marketing copilot to create products, generate marketing strategies, content studio variations, ad campaigns, social calendars, and track campaign analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
